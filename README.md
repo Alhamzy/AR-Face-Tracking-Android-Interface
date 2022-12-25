@@ -4,7 +4,7 @@ Utilized my fundamental C# knowledge at the time. Mainly to add customizability 
 
 # Program Overview
 - Android Interface built through Unity Game Engine. A research paper is scheduled to be published explaining the progression and capabilties of this project.
-- Uses AR foundation plugin to trakc facial features and create a fully responsive mask on the user's front-facing camera. 
+- Uses AR foundation plugin to track facial features and create a fully responsive mask on the user's front-facing camera. 
 - The interface is customizable by importing PNG textures to unity.
 - Masks can be toggled to change the texture/material on the mask surface. 
 - The project is ready to be merged with NFT-capabilities to allow artists and designers to add tHeir own textures to the interface.
